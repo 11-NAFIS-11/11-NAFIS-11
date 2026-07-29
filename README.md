@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Robiul+Hasan+Nafis;Software+Engineer;Full-Stack+%26+Mobile+App+Developer;Laravel+%7C+Flutter+%7C+React+%7C+Android;Building+ERPs%2C+E-commerce+%26+Games" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Robiul+Hasan+Nafis;Software+Engineer;Fullstack+Web+%26+App+Developer;Automation+Expert;Laravel+%7C+Flutter+%7C+React+%7C+Android;Building+ERPs%2C+E-commerce+%26+Games" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,7 +16,8 @@
 
 ### 👋 About Me
 
-- 🛠️ Software Engineer who builds **full-stack web apps, mobile apps, and business systems** — from Shopify storefronts to ERPs to Android wrappers
+- 🛠️ Software Engineer & **Fullstack Web and App Developer** who builds **full-stack web apps, mobile apps, and business systems** — from Shopify storefronts to ERPs to Android wrappers
+- ⚙️ **Automation Expert** — I script away repetitive workflows (deployment, data entry, store/theme management) instead of doing them by hand
 - 🧩 Comfortable across the stack: **Laravel/PHP** backends, **React** frontends, **Flutter** and **native Android** mobile apps
 - 🏪 Shipped e-commerce platforms, POS systems, ledger/accounting apps, and government project sites
 - 🎮 Also enjoy building **games** and doing **competitive programming** on the side
