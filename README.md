@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=11-NAFIS-11&label=Profile%20Views&color=f7b93e&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/11-NAFIS-11?label=Followers&style=flat&color=f7b93e" alt="followers" />
   <a href="mailto:robiulnafis745@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -53,34 +54,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=11-NAFIS-11&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11-NAFIS-11&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11-NAFIS-11&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11-NAFIS-11&theme=radical&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/11-NAFIS-11/laravel-buy-sell-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=11-NAFIS-11&repo=laravel-buy-sell-website&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/11-NAFIS-11/modular-desk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=11-NAFIS-11&repo=modular-desk&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/11-NAFIS-11/smart-khata">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=11-NAFIS-11&repo=smart-khata&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/11-NAFIS-11/Nafis-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=11-NAFIS-11&repo=Nafis-Portfolio&theme=radical&hide_border=true" />
-  </a>
-</p>
+#### 🎮 [Stack Tower Game](https://github.com/11-NAFIS-11/stack-tower-game)
+Addictive tap-to-stack web game with combo system, themed zones, and smooth animations.
+
+![Language](https://img.shields.io/github/languages/top/11-NAFIS-11/stack-tower-game?style=flat-square&color=f7b93e) ![Last Commit](https://img.shields.io/github/last-commit/11-NAFIS-11/stack-tower-game?style=flat-square&color=f7b93e)
+
+#### 🏢 [RISE1 Official Website](https://github.com/11-NAFIS-11/RISE1-Official-Website)
+IT solutions company website.
+
+![Language](https://img.shields.io/github/languages/top/11-NAFIS-11/RISE1-Official-Website?style=flat-square&color=f7b93e) ![Last Commit](https://img.shields.io/github/last-commit/11-NAFIS-11/RISE1-Official-Website?style=flat-square&color=f7b93e)
+
+#### 🐾 [Birongo Pet E-commerce](https://github.com/11-NAFIS-11/Birongo_Pet-ecommerce-)
+E-commerce storefront for a pet supplies brand.
+
+![Language](https://img.shields.io/github/languages/top/11-NAFIS-11/Birongo_Pet-ecommerce-?style=flat-square&color=f7b93e) ![Last Commit](https://img.shields.io/github/last-commit/11-NAFIS-11/Birongo_Pet-ecommerce-?style=flat-square&color=f7b93e)
+
+#### 🧾 [POS System](https://github.com/11-NAFIS-11/POS-)
+Point-of-sale system for retail/business use.
+
+![Language](https://img.shields.io/github/languages/top/11-NAFIS-11/POS-?style=flat-square&color=f7b93e) ![Last Commit](https://img.shields.io/github/last-commit/11-NAFIS-11/POS-?style=flat-square&color=f7b93e)
 
 ---
 
