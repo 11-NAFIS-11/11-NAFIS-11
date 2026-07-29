@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Robiul+Hasan+Nafis;Full-Stack+%26+Mobile+App+Developer;Laravel+%7C+Flutter+%7C+React+%7C+Android;Building+ERPs%2C+E-commerce+%26+Games" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Robiul+Hasan+Nafis;Software+Engineer;Full-Stack+%26+Mobile+App+Developer;Laravel+%7C+Flutter+%7C+React+%7C+Android;Building+ERPs%2C+E-commerce+%26+Games" alt="Typing SVG" />
 </a>
 
 </div>
@@ -9,18 +9,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=11-NAFIS-11&label=Profile%20Views&color=f7b93e&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/11-NAFIS-11?label=Followers&style=flat&color=f7b93e" alt="followers" />
-  <a href="mailto:robiulnafis745@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nafis15-5099@diu.edu.bd"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👋 About Me
 
-- 🛠️ I build **full-stack web apps, mobile apps, and business systems** — from Shopify storefronts to ERPs to Android wrappers
+- 🛠️ Software Engineer who builds **full-stack web apps, mobile apps, and business systems** — from Shopify storefronts to ERPs to Android wrappers
 - 🧩 Comfortable across the stack: **Laravel/PHP** backends, **React** frontends, **Flutter** and **native Android** mobile apps
 - 🏪 Shipped e-commerce platforms, POS systems, ledger/accounting apps, and government project sites
 - 🎮 Also enjoy building **games** and doing **competitive programming** on the side
-- 📫 Reach me at **robiulnafis745@gmail.com**
+- 📫 Reach me at **nafis15-5099@diu.edu.bd**
 
 ---
 
