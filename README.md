@@ -84,6 +84,50 @@ Point-of-sale system for retail/business use.
 
 ---
 
+### 🔒 Private / Client Projects
+
+<sub>Source code for these is private (client/NDA work) — listed here to showcase scope of work, not for public access.</sub>
+
+| Project | Description |
+|---|---|
+| Laravel Buy & Sell Website | Laravel 12 marketplace — listings, chat, offers, favorites, bKash promote/bump system, admin panel |
+| Kuwait E-commerce | E-commerce platform build for a Kuwait-based client |
+| Abrezabaya | Client business web application |
+| Master Accounting | Accounting/bookkeeping system |
+| Nafis Portfolio (3D) | World-class 3D portfolio showcasing full-stack development and mobile apps |
+| Joypurhat Chamber Website | Bilingual (EN/BN) Chamber of Commerce & Industry membership platform — Laravel 12 |
+| Warborn Game Project | Game development project |
+| SG Magic Flooring | Business website for a flooring company |
+| Silverstar EM | Client business website |
+| RN Technical Services | Business services website |
+| Restaurant Menu App | Digital restaurant menu application |
+| Homeflooring | Flooring business website |
+| Shieldmmaster | Client project |
+| Hikma Healing Hub | Healthcare/wellness platform |
+| LiveVerse | Original live streaming platform (Flutter + Laravel 12 + PostgreSQL) |
+| Streamhub Player | Media streaming player |
+| Modular Desk | Premium all-in-one Business Operating System (ERP + AI + free tools + marketplace) |
+| Karachi Express | Logistics/delivery business platform |
+| Smart Khata (স্মার্ট খাতা) | Flutter shop ledger app for বাকি/জমা tracking |
+| PhoneBridge | Cross-device connectivity app |
+| Rise1 Updated | RISE1 tech services website with 3D Framer Motion animations |
+| Gensmile Desktop | Desktop application |
+| Gensmile Android | Android application |
+| E-Bike | E-bike related platform |
+| Serene Collection | E-commerce clothing site built with Laravel |
+| Rise1 | Project management app built with Laravel 12 |
+| Shoe Store | E-commerce storefront for footwear |
+| Trading App | Trading/finance application |
+| Birongo Pet (v2) | Additional Birongo pet e-commerce build |
+| POS System (v2) | Point-of-sale system variant |
+| Game Frontend | Frontend for a game project |
+| Game Backend | Backend services for a game project |
+| Orum Shoe Store | E-commerce storefront for footwear |
+| Dhaka Range Police Gov | Government project site |
+| Elite House App | Native app wrapper for a wholesale storefront |
+
+---
+
 <p align="center">
   <i>Open to freelance work and collaborations — feel free to reach out.</i>
 </p>
