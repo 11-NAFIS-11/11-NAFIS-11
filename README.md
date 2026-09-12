@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=11-NAFIS-11&label=Profile%20Views&color=f7b93e&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/11-NAFIS-11?label=Followers&style=flat&color=f7b93e" alt="followers" />
+  <img src="https://img.shields.io/badge/Repositories-51%20(16%20public%20%2B%2035%20private)-f7b93e?style=flat" alt="total repositories" />
   <a href="mailto:nafis15-5099@diu.edu.bd"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
